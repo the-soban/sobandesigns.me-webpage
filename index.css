@@ -1,0 +1,40 @@
+body{
+    background-color: #f7ffff;
+
+}
+
+#mainhd{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700 ;
+    color: #343267;
+}
+
+
+#subhd{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500 ;
+    color: #d42c29;
+}
+
+.sclbtn{
+    display: inline-block;
+    text-decoration: none;
+    /* text-align: center; */
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400 ;
+    padding: 8px 12px;
+    margin: 23px 0px;
+    color: #343267;
+    border: 2px solid #343267;
+    border-radius: 34px;
+
+}
+
+#maincntnr{
+    /* align-self: center; */
+    text-align: center;
+    /* padding: 20px 0px; */
+    
+}
